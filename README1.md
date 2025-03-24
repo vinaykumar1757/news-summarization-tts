@@ -16,7 +16,7 @@ This web app extracts real-time news articles for a given company, performs sent
 
 🛠️ Setup Instructions
 🔹 1. Clone the Repository
-git clone https://github.com/YOUR_USERNAME/news-summarization-tts.git
+git clone https://github.com/vinaykumar1757/news-summarization-tts.git
 cd news-summarization-tts
 🔹 2. Install Dependencies
 pip install -r requirements.txt
